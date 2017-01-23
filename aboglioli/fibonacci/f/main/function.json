@@ -1,0 +1,15 @@
+{
+  "name": "main",
+  "description": "Fibonacci function",
+  "args": [
+    "Number",
+    "Second argument"
+  ],
+  "kwargs": {
+    "alpha": "Keyword argument alpha",
+    "beta": "Keyword argument beta"
+  },
+  "http": {
+    "headers": {}
+  }
+}
